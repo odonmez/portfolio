@@ -1,5 +1,5 @@
 import './index.css';
-import videoBanner from './video.mp4';
+//import videoBanner from './video.mp4';
 
 function Banner() {
     return (
